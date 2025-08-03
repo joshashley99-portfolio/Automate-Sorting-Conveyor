@@ -3,3 +3,5 @@ This is an automated sorting conveyor that uses two photoeyes, a proximity senso
 
 Here is a link to a demo video with an audio journal included. https://youtu.be/XzGDhVvqumQ
 
+A more in depth write up is included in the files, as well as the ladder logic used in the program. 
+
